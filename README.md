@@ -1,8 +1,8 @@
-Hey there! I'm Rafael Garcia.
+<h1>Hey there! I'm Rafael Garcia.</h1>
 
 
-I’m currently working as an interpreter for the brasilian federal courts(portuguese, english, spanish) and I’m currently studying at Gama Academy; <br>
-I have a bachelor in Law and Modern Languages.
+<p>I’m currently working as an interpreter for the brasilian federal courts(portuguese, english, spanish) and I’m currently studying at Gama Academy;</p>
+<p>I have a bachelor in Law and Modern Languages.</p>
 
 <div align="center">
   <a href="https://github.com/garnasci">
