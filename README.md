@@ -1,8 +1,7 @@
 <h1>Hey there! I'm Rafael Garcia.</h1>
 
-
-<p>I’m currently working as an interpreter for the brasilian federal courts(portuguese, english, spanish) and I’m currently studying at Gama Academy;</p>
-<p>I have a bachelor in Law and Modern Languages.</p>
+<p> I'm a lawyer, portuguese and english teacher, currently working as an interpreter for brasilian federal courts (portuguese, english and spanish).
+  Also, I'm studying Full Stack Development at Gama Academy.</p>
 
 <div align="center">
   <a href="https://github.com/rafaelgarnasci">
@@ -14,7 +13,6 @@
 <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Rafa-Node-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">                                                                                                                                           
                                                                                                                                              
 </div>
