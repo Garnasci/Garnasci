@@ -1,6 +1,6 @@
 <h1>Hey there! I'm Rafael Garcia.</h1>
 
-<p> I'm a lawyer, portuguese and english teacher, currently working as an interpreter for brazilian federal courts (portuguese, english and spanish).
+<p> I'm a lawyer, portuguese and english teacher, currently working as an interpreter for brazilian federal courts (portuguese, english and spanish).<br>
   I'm also studying Full Stack Development at Gama Academy.</p>
 
 <div align="center">
