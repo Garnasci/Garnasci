@@ -1,9 +1,24 @@
-<h1>Hey there! I'm Rafael Garcia.</h1>
+# Desenvolvedor de Software | Especialista em Arquitetura de Software | DevOps | Google Cloud Platform 
 
-<p>I'm a Backend Developer.
+## 🔹 Tecnologias, Ferramentas e Frameworks:
+- **NestJS**
+- **Sequelize e Prisma**
+- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
+- **DevOps**
+- **Google Cloud Platform (GCP)**
+- **CI/CD**
+- **Docker**
 
-I'm a lawyer, portuguese and english teacher, currently working as an interpreter for brazilian federal courts (portuguese, english and spanish).<br>
-  .</p>
+## Sobre Mim:
+Sou um desenvolvedor de software apaixonado pela criação de soluções inovadoras e eficientes. Com uma pós-graduação em Arquitetura de Software, adquiri habilidades sólidas em uma ampla gama de tecnologias e ferramentas, incluindo o framework **NestJS** para construção de APIs robustas e escaláveis, além de expertise em bancos de dados SQL e NoSQL, como **MySQL**, **PostgreSQL** e **MongoDB**. Minha experiência em **DevOps** e na **Google Cloud Platform (GCP)** me permite implementar pipelines de **CI/CD** e containers **Docker** de forma eficiente, garantindo entregas contínuas e escalabilidade para os projetos.
+
+## Habilidades Interpessoais:
+Além das habilidades técnicas, sou reconhecido pela minha capacidade de colaborar efetivamente em equipe, comunicar de forma clara e liderar projetos com sucesso e ampla experiência em liderar times. Estou sempre buscando novos desafios para aplicar minhas habilidades em arquitetura de software e contribuir para o sucesso da equipe.
+
+- **Português:** Nativo
+- **Inglês:** Fluente
+- **Espanhol:** Avanç
+
 
 <div align="center">
   <a href="https://github.com/rafaelgarnasci">
