@@ -17,7 +17,7 @@ Além das habilidades técnicas, sou reconhecido pela minha capacidade de colabo
 
 - **Português:** Nativo
 - **Inglês:** Fluente
-- **Espanhol:** Avanç
+- **Espanhol:** Avançado
 
 
 <div align="center">
